@@ -3,6 +3,10 @@ APISec API Penetration Testing
 
 Answers to All the Quizes and Asessments
 
+
+# Note
+- will add the answers to api penetration testing quizes and assignments later ^^ 
+
 # Contents
 
 
